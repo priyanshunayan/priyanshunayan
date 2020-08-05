@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am Priyanshu Nayan, currently in 3<sup>rd</sup> year, studying Computer Science and Engineering from National Institute of Technology, Patna. I like web and you can find me working on web based projects most of time. Presently I am working as Student Developer in Google Summer of Code program for Hydra Ecosystem. I am reading [Don Quixote](https://www.goodreads.com/book/show/3836.Don_Quixote) by Tara Westover these days. I often travel to mountains during my semester breaks. Dharamkot has been my favourite city so far 🏔 
+I am Priyanshu Nayan, currently in 3<sup>rd</sup> year, studying Computer Science and Engineering from National Institute of Technology, Patna. I like web and you can find me working on web based projects most of time. Presently I am working as Student Developer in Google Summer of Code program for Hydra Ecosystem. I am reading [Don Quixote](https://www.goodreads.com/book/show/3836.Don_Quixote) by Miguel de Cervantes Saavedra these days. I often travel to mountains during my semester breaks. Dharamkot has been my favourite city so far 🏔 
 
 <p> 
    <a href="https://medium.com/@impns"> Blogs</a>
   <a href="https://www.linkedin.com/in/priyanshunayan/"> LinkedIn</a>
-  <a href="mailto:heypriyanshu@gmail.com" >Email</a> 
+  <a href="mailto:heypriyanshu@gmail.com" > Email</a> 
 </p>
 
 <!--
