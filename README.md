@@ -1,12 +1,6 @@
-### Hi there 👋
+### Hey there 👋
 
-I am Priyanshu Nayan, currently in 3<sup>rd</sup> year, studying Computer Science and Engineering from National Institute of Technology, Patna. I like web and you can find me working on web based projects most of time. Presently I am working as Student Developer in Google Summer of Code program for Hydra Ecosystem. I am reading [Don Quixote](https://www.goodreads.com/book/show/3836.Don_Quixote) by Miguel de Cervantes Saavedra these days. I often travel to mountains during my semester breaks. Dharamkot has been my favourite city so far 🏔 
-
-<p> 
-   <a href="https://medium.com/@impns"> Blogs</a>
-  <a href="https://www.linkedin.com/in/priyanshunayan/"> LinkedIn</a>
-  <a href="mailto:heypriyanshu@gmail.com" > Email</a> 
-</p>
+I am Priyanshu Nayan, final year undergraduate, studying Computer Science and Engineering from National Institute of Technology, Patna. I like web and you can find me working on web based projects most of time. I worked as a <a href="https://summerofcode.withgoogle.com/projects/#5118383898492928">Student Developer</a> in Google Summer of Code 2020 program for Hydra Ecosystem where we worked on implementing w3c specification [hydra](http://www.hydra-cg.com/spec/latest/core/) and improving the existing implementation in python. I have a demonstrated experience in frontend and backend web technologies like HTML, CSS, JavaScript,Typescript, Node.js, Python and C++. I have been experimenting with different web technologies and building stuffs with them since my first year at college. My favourite ones are pinned below 👇🏻 Currently I am exploring Next.js and Web Assembly. I can be reached via my <a href="mailto:heypriyanshu@gmail.com" > Email</a>. I write my blogs on <a href="https://medium.com/@impns"> Medium </a>. I am always looking for new connections on <a href="https://www.linkedin.com/in/priyanshunayan/"> Linkedin </a>. 
 
 <!--
 **priyanshunayan/priyanshunayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
